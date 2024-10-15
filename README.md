@@ -1,2 +1,2 @@
 # MachineLearning2024
-This project aims to explore Machine Learning course
+This project aims to explore the machine-learning course
